@@ -1,14 +1,16 @@
 # movie_template
 
-HTML, CSS, JavaScript를 활용하여 영화 정보를 화면에 구성한
+HTML, CSS, JavaScript를 활용하여 영화 정보를 화면에 구성한  
 영화 페이지 제작 예제 프로젝트입니다.
+
+![Movie Template 실행 화면](./img/index.png)
 
 ## 📌 프로젝트 소개
 
-영화 정보를 카드 형태로 구성하고 JavaScript를 이용하여
+영화 정보를 카드 형태로 구성하고 JavaScript를 이용하여  
 영화 데이터를 동적으로 화면에 출력하는 페이지를 제작했습니다.
 
-HTML과 CSS를 이용한 화면 구성뿐만 아니라 JavaScript를 활용한
+HTML과 CSS를 이용한 화면 구성뿐만 아니라 JavaScript를 활용한  
 동적 콘텐츠 생성 과정을 학습하는 것을 목표로 했습니다.
 
 ## 🛠️ 기술 스택
