@@ -37,7 +37,6 @@ HTML과 CSS를 이용한 화면 구성뿐만 아니라 JavaScript를 활용한
 ## 🔗 링크
 
 - [프로젝트 페이지](https://apiod.github.io/movie_template/index.html)
-- [GitHub](https://github.com/apiod/movie_template)
 
 ## 📝 느낀 점
 
